@@ -1,0 +1,829 @@
+#logo {
+    position: absolute;
+    width: 103px;
+    height: 48px;
+    left: 5%;
+    right: 1%;
+    top: 1%;
+    bottom: 0%;
+
+}
+
+.services,
+.work,
+.trial,
+.jobs,
+.contact {
+    position: absolute;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'roboto', sans-serif;
+    top: 5%
+}
+
+.services {
+    width: 77px;
+    height: 28px;
+    left: 569px;
+}
+
+.work {
+    width: 46px;
+    height: 28px;
+    left: 710px;
+}
+
+.trial {
+    width: 35px;
+    height: 28px;
+    left: 820px;
+}
+
+.jobs {
+    width: 43px;
+    height: 28px;
+    left: 919px;
+}
+
+.contact {
+    width: 70px;
+    height: 28px;
+    left: 1000px;
+}
+
+p.design,
+.approach {
+    position: absolute;
+    left: 72px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'roboto';
+    position: absolute;
+    left: 72px;
+    width: 500px;
+    height: 101px;
+    top: 150px;
+    font-size: 84px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+p.design {
+    width: 580px;
+    height: 42px;
+    top: 450px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+}
+
+.approach {
+    top: 550px;
+    padding: 4px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 24px;
+
+}
+
+.img1 {
+    position: absolute;
+    left: 72px;
+    top: 700px;
+
+}
+
+.rectangle {
+    box-sizing: border-box;
+    position: absolute;
+    width: 113px;
+    height: 42px;
+    left: 72px;
+    top: 1384px;
+    border: 1px solid #000000;
+    border-radius: 9999px;
+}
+
+.Initial {
+    position: absolute;
+    width: 79px;
+    height: 28px;
+    left: 89px;
+    top: 1391px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 1);
+    ;
+}
+
+p.Enterprise {
+    position: absolute;
+    width: 890px;
+    height: 120px;
+    left: 72px;
+    top: 1451px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+.UX1,
+.UX2,
+.UX3,
+.UX4 {
+    position: absolute;
+    height: 28px;
+    top: 1650px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
+
+}
+
+.UX1 {
+    width: 111px;
+    left: 72px;
+}
+
+.UX2 {
+    width: 91px;
+    left: 215px;
+}
+
+.UX3 {
+    width: 84px;
+    left: 338px;
+}
+
+.UX4 {
+    width: 131px;
+    left: 454px;
+}
+
+.img2 {
+    position: absolute;
+    width: 496px;
+    height: 496px;
+    left: 72px;
+    top: 1728px;
+}
+
+.Exploration {
+    position: absolute;
+    width: 99px;
+    height: 28px;
+    left: 89px;
+    top: 2287px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    text-decoration: none;
+    color: #000000;
+}
+
+p.visualization {
+    position: absolute;
+    width: 482px;
+    height: 180px;
+    left: 72px;
+    top: 2347px;
+}
+
+.Concept,
+.UXdesign,
+.UI {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    position: absolute;
+    height: 28px;
+    top: 2600px;
+    color: rgba(0, 0, 0, 0.7);
+    text-decoration: none;
+}
+
+.Concept {
+    width: 76px;
+    left: 72px;
+}
+
+.UXdesign {
+    width: 91px;
+    left: 180px;
+}
+
+.UI {
+    width: 84px;
+    left: 303px;
+}
+
+.p.visualization,
+.img3,
+.Reimagined,
+p.designing,
+.research,
+.uxdesign,
+.uidesign,
+.system {
+    position: absolute;
+}
+
+.img3 {
+    width: 496px;
+    height: 496px;
+    left: 632px;
+    top: 1728px;
+    background: url(.png);
+    border-radius: 0px;
+}
+
+p.visualization,
+p.designing {
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+.Reimagined {
+    width: 140px;
+    height: 28px;
+    left: 649px;
+    top: 2287px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000000;
+}
+
+p.designing {
+    width: 473px;
+    height: 60px;
+    left: 632px;
+    top: 2346px;
+}
+
+.research,
+.uxdesign,
+.uidesign,
+.system {
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.research,
+.uxdesign,
+.uidesign {
+    height: 28px;
+    top: 2668px;
+}
+
+.research {
+    width: 111px;
+    height: 28px;
+    left: 632px;
+    top: 2668px;
+}
+
+.uxdesign {
+    width: 91px;
+    left: 775px;
+}
+
+.uidesign {
+    width: 84px;
+    left: 898px;
+}
+
+.system {
+    width: 131px;
+    height: 28px;
+    left: 632px;
+    top: 2700px;
+}
+
+.box {
+    position: absolute;
+    width: 1200px;
+    height: 1427px;
+    left: 0px;
+    top: 2846px;
+    background: #000000;
+    border-radius: 0px;
+}
+
+.current {
+    width: 976px;
+    height: 180px;
+    left: 72px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 90px;
+    color: #FFFFFF;
+}
+
+.processes {
+    width: 466px;
+    height: 32px;
+    left: 408px;
+    top: 360px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+.rectangle2,
+.rectangle1 {
+    box-sizing: border-box;
+    position: absolute;
+    height: 42px;
+    top: 2280px;
+    border: 1px solid #000000;
+    border-radius: 9999px;
+}
+
+.rectangle2 {
+    width: 174px;
+    left: 632px;
+}
+
+.rectangle1 {
+    width: 133px;
+    left: 72px;
+}
+
+.rectangle3 {
+    position: absolute;
+    width: 720px;
+    height: 1px;
+    left: 408px;
+    top: 425px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.improvements {
+    width: 466px;
+    height: 38px;
+    top: 440px;
+}
+
+.hire {
+    width: 465px;
+    height: 36px;
+    top: 520px;
+}
+
+.rectangle4 {
+    position: absolute;
+    width: 720px;
+    height: 1px;
+    left: 408px;
+    top: 600px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.digital {
+    width: 250px;
+    height: 38px;
+    top: 625px;
+}
+
+.superpowers {
+    width: 452px;
+    height: 36px;
+    top: 700px;
+}
+
+.rectangle5 {
+    position: absolute;
+    width: 720px;
+    height: 1px;
+    left: 408px;
+    top: 780px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.exisiting {
+    width: 389px;
+    height: 38px;
+    top: 790px;
+}
+
+.version {
+    width: 496px;
+    height: 36px;
+    top: 870px;
+}
+
+p.software {
+    width: 715px;
+    height: 216px;
+    left: 408px;
+    top: 950px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 54px;
+    color: #FFFFFF;
+}
+
+.img4 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 408px;
+    top: 1250px;
+    background: url(.jpg);
+    border-radius: 8px;
+}
+
+p.mark {
+    position: absolute;
+    width: 132px;
+    height: 28px;
+    left: 512px;
+    top: 1250px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.coo {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 512px;
+    top: 1280px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.current,
+.processes,
+.improvements,
+.hire,
+.digital,
+.superpowers,
+.exisiting,
+.version,
+p.software {
+    position: absolute;
+}
+
+.improvements,
+.digital,
+.exisiting {
+    left: 408px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    color: #FFFFFF;
+}
+
+.hire,
+.superpowers,
+.version {
+    left: 408px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.box1 {
+    position: absolute;
+    width: 1056px;
+    height: 512px;
+    left: 72px;
+    top: 4401px;
+    background: #000000;
+    border-radius: 8px;
+}
+
+.img5 {
+    position: absolute;
+    width: 416px;
+    height: 415px;
+    top: 50px;
+    left: 50px;
+    background: url(.png);
+    border-radius: 6px;
+}
+
+.ceo {
+    position: absolute;
+    width: 198px;
+    height: 30px;
+    left: 520px;
+    top: 270px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.about {
+    position: absolute;
+    width: 362px;
+    height: 45px;
+    left: 520px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+
+.Frederick {
+    position: absolute;
+    width: 446px;
+    height: 117px;
+    left: 520px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.mail,
+.phone,
+.linkid {
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 520px;
+}
+
+.mail {
+    width: 88px;
+    height: 30px;
+    top: 360px;
+}
+
+.phone {
+    width: 106px;
+    height: 30px;
+    top: 390px;
+}
+
+.linkid {
+    width: 75px;
+    height: 30px;
+    top: 420px;
+
+}
+
+.challenges,
+.challenges1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 75px;
+    color: #000000;
+    height: 75px;
+    position: absolute;
+}
+
+.challenges {
+    width: 790px;
+    left: 72px;
+    top: 5041px;
+}
+
+.challenges1 {
+    width: 318px;
+    left: 396px;
+    top: 5118px;
+}
+
+.next {
+    position: absolute;
+    width: 635px;
+    height: 98px;
+    left: 72px;
+    top: 5250px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 49px;
+    color: #000000;
+}
+
+.rectangle6 {
+    position: absolute;
+    width: 174px;
+    height: 64px;
+    left: 72px;
+    top: 5430px;
+    background: #000000;
+    border-radius: 9999px;
+}
+
+.contctus {
+    position: absolute;
+    width: 118px;
+    height: 32px;
+    left: 100px;
+    top: 5445px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+.Copenhagen,
+.street,
+.index,
+.Denmark,
+.street1,
+.street2,
+.Denmark1,
+.index2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    color: #000000;
+    position: absolute;
+    font-weight: 400;
+}
+
+.Copenhagen {
+    width: 173px;
+    height: 38px;
+    left: 72px;
+    top: 5531px;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.street {
+    width: 225px;
+    height: 36px;
+    left: 72px;
+    top: 5584px;
+    font-size: 23px;
+    line-height: 36px;
+}
+
+.index {
+    width: 196px;
+    height: 36px;
+    left: 72px;
+    top: 5620px;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.Denmark {
+    width: 96px;
+    height: 36px;
+    left: 72px;
+    top: 5656px;
+    font-size: 23px;
+    line-height: 36px;
+}
+
+.street1 {
+    width: 105px;
+    height: 38px;
+    left: 592px;
+    top: 5531px;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.street2 {
+    width: 223px;
+    height: 36px;
+    left: 592px;
+    top: 5584px;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.index2 {
+    width: 142px;
+    height: 36px;
+    left: 592px;
+    top: 5620px;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.Denmark1 {
+    width: 96px;
+    height: 36px;
+    left: 592px;
+    top: 5656px;
+    font-size: 23px;
+    line-height: 36px;
+}
+
+.directions,
+.directions1 {
+    position: absolute;
+    width: 89px;
+    top: 5730px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    color: #000000;
+    height: 28px;
+    text-decoration: none;
+}
+
+.directions {
+    left: 72px;
+}
+
+.directions1 {
+    left: 592px;
+}
+
+.linked,
+.year {
+    position: absolute;
+    height: 28px;
+    top: 5848px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.linked {
+    width: 69px;
+    left: 72px;
+}
+
+.year {
+    width: 98px;
+    left: 1030px;
+}
