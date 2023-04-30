@@ -107,7 +107,7 @@ p.design {
     border-radius: 9999px;
 }
 
-.Initial {
+.initial {
     position: absolute;
     width: 79px;
     height: 28px;
@@ -124,7 +124,7 @@ p.design {
     ;
 }
 
-p.Enterprise {
+p.enterprise {
     position: absolute;
     width: 890px;
     height: 120px;
@@ -183,7 +183,7 @@ p.Enterprise {
     top: 1728px;
 }
 
-.Exploration {
+.exploration {
     position: absolute;
     width: 99px;
     height: 28px;
@@ -206,7 +206,7 @@ p.visualization {
     top: 2347px;
 }
 
-.Concept,
+.concept,
 .UXdesign,
 .UI {
     font-family: 'Roboto';
@@ -221,7 +221,7 @@ p.visualization {
     text-decoration: none;
 }
 
-.Concept {
+.concept {
     width: 76px;
     left: 72px;
 }
@@ -238,7 +238,7 @@ p.visualization {
 
 .p.visualization,
 .img3,
-.Reimagined,
+.reimagined,
 p.designing,
 .research,
 .uxdesign,
@@ -266,7 +266,7 @@ p.designing {
     line-height: 60px;
 }
 
-.Reimagined {
+.reimagined {
     width: 140px;
     height: 28px;
     left: 649px;
@@ -585,7 +585,7 @@ p.software {
     color: #FFFFFF;
 }
 
-.Frederick {
+.frederick {
     position: absolute;
     width: 446px;
     height: 117px;
@@ -695,13 +695,13 @@ p.software {
     color: #FFFFFF;
 }
 
-.Copenhagen,
+.copenhagen,
 .street,
 .index,
-.Denmark,
+.denmark,
 .street1,
 .street2,
-.Denmark1,
+.denmark1,
 .index2 {
     font-family: 'Roboto';
     font-style: normal;
@@ -710,7 +710,7 @@ p.software {
     font-weight: 400;
 }
 
-.Copenhagen {
+.copenhagen {
     width: 173px;
     height: 38px;
     left: 72px;
@@ -737,7 +737,7 @@ p.software {
     line-height: 36px;
 }
 
-.Denmark {
+.denmark {
     width: 96px;
     height: 36px;
     left: 72px;
@@ -773,7 +773,7 @@ p.software {
     line-height: 36px;
 }
 
-.Denmark1 {
+.denmark1 {
     width: 96px;
     height: 36px;
     left: 592px;
